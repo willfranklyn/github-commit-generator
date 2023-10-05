@@ -4,6 +4,9 @@
     "description": "Generates a random github commit message for developers.",
     "manifest_version": 3,
     "author": "Will Franklyn",
+    "icons": {
+        "128": "icon.png"
+    },
     "action": {
         "default_popup": "index.html",
         "default_title": "Github Commit Generator"
